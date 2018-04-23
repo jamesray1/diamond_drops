@@ -1,5 +1,5 @@
 # Diamond Drops
-[![Twitter](https://img.shields.io/twitter/follow/DropsofDiamond.svg?style=social)](https://twitter.com/DropsOfDiamond)
+[![Twitter](https://img.shields.io/twitter/follow/DropsofDiamond.svg?style=social&label=Follow)](https://twitter.com/DropsOfDiamond)
 [![TravisCI](https://img.shields.io/travis/Drops-of-Diamond/diamond_drops/master.svg)](https://travis-ci.org/Drops-of-Diamond/diamond_drops)
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-lightgrey.svg)](https://github.com/Drops-of-Diamond/diamond_drops/blob/master/LICENSE)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Drops-of-Diamond/diamond_drops.svg)](http://isitmaintained.com/project/Drops-of-Diamond/diamond_drops "Average time to resolve an issue")
